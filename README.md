@@ -40,7 +40,7 @@ Before you can start performing App automation testing with Appium, you would ne
 
 ### Clone The Sample Project
 
-Clone the LambdaTest’s :link: [LT-appium-nodejs](https://github.com/LambdaTest/LT-appium-nodejs) repository and navigate to the code directory as shown below:
+Clone the LambdaTest’s :link: [LT-appium-nodejs-mocha](https://github.com/LambdaTest/LT-appium-nodejs-mocha) repository and navigate to the code directory as shown below:
 
 ```bash
 git clone https://github.com/LambdaTest/LT-appium-nodejs-mocha
@@ -49,7 +49,7 @@ cd LT-appium-nodejs-mocha
 
 ### Setting Up Your Authentication
 
-Make sure you have your LambdaTest credentials with you to run test automation scripts on LambdaTest. To obtain your access credentials, [purchase a plan](https://billing.lambdatest.com/billing/plans/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs) or access the [Automation Dashboard](https://appautomation.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs).
+Make sure you have your LambdaTest credentials with you to run test automation scripts on LambdaTest. To obtain your access credentials, [purchase a plan](https://billing.lambdatest.com/billing/plans/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha) or access the [Automation Dashboard](https://appautomation.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha).
 
 Set LambdaTest `Username` and `Access Key` in environment variables.
 
@@ -189,7 +189,7 @@ npm run ios    //to run single test
 npm run parallel_ios    //to run parallel tests
 ```
 
-**Info:** Your test results would be displayed on the test console (or command-line interface if you are using terminal/cmd) and on the :link: [LambdaTest App Automation Dashboard](https://appautomation.lambdatest.com/build/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs).
+**Info:** Your test results would be displayed on the test console (or command-line interface if you are using terminal/cmd) and on the :link: [LambdaTest App Automation Dashboard](https://appautomation.lambdatest.com/build/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha).
 
 ## Additional Links
 
@@ -201,13 +201,13 @@ npm run parallel_ios    //to run parallel tests
 
 Visit the following links to learn more about LambdaTest's features, setup and tutorials around test automation, mobile app testing, responsive testing, and manual testing.
 
-- [LambdaTest Documentation](https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-moch)
+- [LambdaTest Documentation](https://www.lambdatest.com/support/docs/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha)
 - [LambdaTest Blog](https://www.lambdatest.com/blog/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha)
 - [LambdaTest Learning Hub](https://www.lambdatest.com/learning-hub/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha)
 
 ## LambdaTest Community :busts_in_silhouette:
 
-The [LambdaTest Community](https://community.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs) allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
+The [LambdaTest Community](https://community.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha) allows people to interact with tech enthusiasts. Connect, ask questions, and learn from tech-savvy people. Discuss best practises in web development, testing, and DevOps with professionals from across the globe 🌎
 
 ## What's New At LambdaTest ❓
 
@@ -215,7 +215,7 @@ To stay updated with the latest features and product add-ons, visit [Changelog](
 
 ## About LambdaTest
 
-[LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using LambdaTest, businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on LambdaTest for their testing needs.
+[LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha) is a leading test execution and orchestration platform that is fast, reliable, scalable, and secure. It allows users to run both manual and automated testing of web and mobile apps across 3000+ different browsers, operating systems, and real device combinations. Using LambdaTest, businesses can ensure quicker developer feedback and hence achieve faster go to market. Over 500 enterprises and 1 Million + users across 130+ countries rely on LambdaTest for their testing needs.
 
 ### Features
 
@@ -236,5 +236,5 @@ To stay updated with the latest features and product add-ons, visit [Changelog](
 
 ## We are here to help you :headphones:
 
-- Got a query? we are available 24x7 to help. [Contact Us](mailto:support@lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs)
+- Got a query? we are available 24x7 to help. [Contact Us](mailto:support@lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha)
 - For more info, visit - [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=LT-appium-nodejs-mocha)
